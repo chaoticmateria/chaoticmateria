@@ -1,7 +1,7 @@
 ```text
-                                            #*+**    rhea@research -----------------------------
+                                            #*+**    rhea@research
                                            ##* ***   OS: ...................... Windows 10, Arch Linux, Android
-          +#########*****+++++*#-+      +###*        Uptime: .................. 10 years
+            +#+#####*****+++++*#-+      +###*        Uptime: .................. 10 years
         +##**+#######**++++---+-+*#*- **##*-         Host: .................... Rhea Research Lab (@rhearesearch)
        ### ########*+ ***+ *+++-+*#####+             Kernel: .................. Graphics & Systems Researcher / C++ Dev
      ##+-+***  **+###*++      *+*#######**           IDE: ..................... Notepad++, Neovim, VS Code
@@ -17,6 +17,6 @@
         ----   **                * #++--+*+          Email.Personal: .......... rheachaoticmateria@gmail.com
       ***+    ********#**#*####**+++++*#             Email.Work: .............. hello@rhearesearch.id
     +** **       *+** **#*******--+**                LinkedIn: ................ chaoticmateria
-  +*+*+*+         ----    +---+-*                    Discord: ................. chaoticmateria
+  +*+         ----    +---+-*                        Discord: ................. chaoticmateria
 
 ```
