@@ -11,7 +11,7 @@
      *++*            -**+  *+*#*       +----+        Languages.Real: .......... Indonesian, English
     ++*++          *##+++#  *          +++  -        
     *++***       *#*++--*#             +++  +        Hobbies.Software: ........ Neural Rendering, Diffusion Transformer
-     ** **      +**++-#*              **++---        Hobbies.Hardware: ........ Blender Custom Builds, GPU Acceleration
+     ** **      +**++-#*              **++---        Hobbies.Hardware: ........ Self-Hosting, Analog Electronics
       *    ####*****                  *+---++        
        ---*+--+  #*                  **---++         Contact
         ----   **                * #++--+*+          Email.Personal: .......... rheachaoticmateria@gmail.com
