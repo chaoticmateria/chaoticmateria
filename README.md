@@ -1,10 +1,10 @@
 ```text
                                             #*+**    rhea@research
                                            ##* ***   OS: ...................... Windows 10, Arch Linux, Android
-            +#+#####*****+++++*#-+      +###*        Uptime: .................. 10 years
-        +##**+#######**++++---+-+*#*- **##*-         Host: .................... Rhea Research Lab (@rhearesearch)
-       ### ########*+ ***+ *+++-+*#####+             Kernel: .................. Graphics & Systems Researcher / C++ Dev
-     ##+-+***  **+###*++      *+*#######**           IDE: ..................... Notepad++, Neovim, VS Code
+             --+++- +*****+++###-+      +###*        Uptime: .................. 10 years
+        +###*+++#####**++++---+-+*#*- **##*-         Host: .................... Rhea Research Lab (@rhearesearch)
+       ###-   -####*+ ***+ *+++-+*#####+             Kernel: .................. Graphics & Systems Researcher / C++ Dev
+     ##+-+***--**+###*++      *+*#######**           IDE: ..................... Notepad++, Neovim, VS Code
       ***+** *****           ###** *****###          
                           **# ****** ***++**         Languages.Programming: ... C++, Rust, Python, JavaScript
       *#*               *#*-+*+* *     ++++++        Languages.Computer: ...... HLSL, GLSL, CMake, PowerShell, Bash, JSON
